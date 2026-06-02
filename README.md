@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=suryav&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/suryav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suryav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-v)
 [![Gmail](https://img.shields.io/badge/Gmail-velusurya589@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:velusurya589@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-suryav-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suryav)
+[![GitHub](https://img.shields.io/badge/GitHub-surya-554-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suryav)
 
 </div>
 
